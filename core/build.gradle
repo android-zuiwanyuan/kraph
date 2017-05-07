@@ -4,10 +4,10 @@ buildscript {
 
         bintray_plugin_version = '0.3.4'
 
-        spek_version = '1.1.0'
+        spek_version = '1.1.1'
         hamkrest_version = '1.2.2.0'
         junit_version = '4.12'
-        junit_platform_version = '1.0.0-M3'
+        junit_platform_version = '1.0.0-M4'
 
     }
     repositories {
